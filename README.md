@@ -58,6 +58,9 @@ are adventurous and want both, type `-a both`. Last things last, there is a `-sp
 also save a pickled file of the `Maze` instance for later use. This pickled file is also accepted as an input to
 the script (after the `-m` flag).
 
+The solution file is also a text file containing the original text representation of your maze and also `*` characters
+representing the path found by the corresponding algorithm.
+
 ## License and Contributions
 
 This is a free and open-source scpript, so feel free to modify it as you wish. And if you have some comments or criticism,
