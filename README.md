@@ -26,6 +26,7 @@ Also, in this project I try to use a few more-or-less *fancy* Python features, l
 - magic methods, other than the *boring* `__init__`
 - CLI parsing
 - pickling
+- [Sphinx docstrings](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html)
 
 Wild, right? For a functionality like this (i.e., maze solving) these are probably dispensable and unnecessary 
 overcomplications, but for a good coding exercise these are somewhat requirements IMHO.
